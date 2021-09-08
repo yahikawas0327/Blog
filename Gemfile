@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Make errors better looking
-gem 'better_errors', '~> 2.7', '>= 2.7.1'
+gem 'better_errors', '~> 2.8'
 
 # Bulma CSS
 gem 'bulma-rails', '~> 0.6.1'
